@@ -1,1 +1,14 @@
-node_modules
+# Ignore node_modules for React
+reactive-web/node_modules/
+
+# Ignore build files for React
+reactive-api/build/
+
+# Ignore IDE files
+*.idea/
+*.vscode/
+
+# Ignore Maven/Gradle build directories
+reactive-api/target/
+reactive-api/build/
+
